@@ -1,11 +1,8 @@
-
-cs718-java-individual-assignment-paichichi created by GitHub Classroom
-
-
-This is the final individual project！
+This is the final individual project after the recipe forum！
 Make sure to run the node file included in the ZIP file I unloaded when you run Java, as I found a few small bugs with the API functions during the development of the Java program.
 
 The users infomation is here you can check:
+
 the first user's username is "user1", the password is "pa55word". he is admin, you can only check all users information through his account.
 
 the second user's username is "user2", the password is "pa55word".
